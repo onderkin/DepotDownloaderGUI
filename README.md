@@ -1,29 +1,32 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Beta-green" />
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/mmvanheusden/DepotDownloaderGUI/total?label=Downloads">
-  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/mmvanheusden/DepotDownloaderGUI?include_prereleases">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mmvanheusden/DepotDownloaderGUI">
+  <img src="https://img.shields.io/badge/status-Beta-blue" />
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/mmvanheusden/DepotDownloaderGUI/total?color=orange&label=downloads">
+  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/mmvanheusden/DepotDownloaderGUI?color=seagreen&include_prereleases">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mmvanheusden/DepotDownloaderGUI?color=crimson">
 </p>
 
 # DepotDownloaderGUI
 
-A simple GUI tool based on [DepotDownloader][depotdownloader] for downloading older versions of Steam games.
+A simple GUI tool based on [**DepotDownloader**][depotdownloader] for downloading older versions of Steam games.
 
 ![The Program](https://raw.githubusercontent.com/mmvanheusden/DepotDownloaderGUI/main/src/readme.md/hero.png "The Program")
 
 ## What can you do with the program?
 You can download older versions of Steam games!!!:sunglasses:
 
+## Want an example?
+Go to [**This**][subnauticawiki] tutorial.
+
 ## How use the program?
 
 ### step 1:
-Download and unzip the program. (You can download it [Here][latest])
+Download and unzip the program. (You can download it [**Here**][latest])
 ### step 2:
 Run DepotDownloaderGUI.exe.
 ### step 3:
 First enter your Steam credentials at "Username" and "Password" (Don't worry, it's safe!)
 ### step 4:
-Go to [SteamDB][steamdb].
+Click on "SteamDB Instant Search".
 ### step 5:
 Enter your game of choice at the search bar and select the game.
 ### step 6:
@@ -46,10 +49,11 @@ The downloaded game is stored in the folder "YourGame"
 > :warning: **Once the download progress is complete, Move the downloaded files to a different folder!**
 ### Enjoy your game!
 
-
-## If you have any questions, open a GitHub Issue.
+## Need help?
+### If you have any questions, use the shiny new ✨GitHub Discussions✨ page!
 
 
 [latest]: https://github.com/mmvanheusden/DepotDownloaderGUI/releases/latest
 [steamdb]: https://steamdb.info/
 [depotdownloader]: https://github.com/SteamRE/DepotDownloader
+[subnauticawiki]: https://github.com/mmvanheusden/DepotDownloaderGUI/wiki/How-to-Download-older-versions-of-Subnautica
